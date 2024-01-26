@@ -1,1 +1,1 @@
-Frontend Mentor - Recipe page solution
+<h1>Frontend Mentor - Recipe page solution </h1>
