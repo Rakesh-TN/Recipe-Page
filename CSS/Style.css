@@ -1,3 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&family=Young+Serif&display=swap');
+body{
+    font-family: 'Outfit', sans-serif !important;
+}
+h1, h3 {
+    font-family: 'Young Serif', serif;
+}
 .bg-red {
     padding: 5px;
     background-color: rgba(255, 0, 0, 0.225);
