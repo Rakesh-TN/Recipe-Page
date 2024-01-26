@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit&family=Young+Serif&display=swap');
 body{
     font-family: 'Outfit', sans-serif !important;
+    background-color: #fbe1d3 !important;
 }
 h1, h3 {
     font-family: 'Young Serif', serif;
@@ -11,7 +12,7 @@ h1, h3 {
 }
 
 .head {
-    color: coral;
+    color: #ee9b00;
 }
 
 .text-nutrition{
